@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "messages.h": "c",
+        "queue.h": "c",
+        "hashmap.h": "c",
+        "list.h": "c"
+    }
+}
